@@ -60,3 +60,4 @@
 |1|FK|MM|
 |2|FK|CH|
 |3|New|New|
+|3|yes|no|
