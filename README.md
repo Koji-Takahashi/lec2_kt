@@ -39,3 +39,6 @@
 ***
 インストールコマンドは `gem install hoge` です
 
+[Google先生](https://www.google.co.jp/)
+
+
