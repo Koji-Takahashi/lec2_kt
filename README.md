@@ -61,3 +61,4 @@
 |2|FK|CH|
 |3|New|New|
 |4|New2|New2|
+|5|yes|no|
