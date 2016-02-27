@@ -44,3 +44,13 @@
 [Google先生](https://www.google.co.jp/)
 
     https://www.google.co.jp/
+
+
+
+~~~ruby
+　class Hoge
+　  def hoge
+　    print 'hoge'
+　  end
+　end
+~~~
